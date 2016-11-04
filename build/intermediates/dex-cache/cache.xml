@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sameer18051998/AndroidStudioProjects/GH/Merger_WS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d97d83ab53a0ba5dacd486dc5de2294fe646b500">
+        <dex dex="/Users/sameer18051998/AndroidStudioProjects/GH/Merger_WS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b058078dee489e280022f41847282a5345446648/classes.dex" />
+    </item>
+
+</items>
